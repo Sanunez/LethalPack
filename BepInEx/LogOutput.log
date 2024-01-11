@@ -1,0 +1,218 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (11/20/2023 9:29:24 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 18 plugins to load
+[Info   :   BepInEx] Loading [AdditionalSuits 1.1.0]
+[Info   :ACS.AdditionalSuits] AdditionalSuits - initializing...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - initialized!
+[Info   :   BepInEx] Loading [Coroner 1.5.3]
+[Info   :   Coroner] Injecting patch into Landmine.SpawnExplosion...
+[Info   :   Coroner] Done.
+[Info   :   Coroner] Plugin Coroner (com.elitemastereric.coroner) is loaded!
+[Info   :   Coroner] Coroner Language Support: en
+[Info   :   Coroner] Checking for LC_API...
+[Info   :   Coroner] LCAPI is not present.
+[Info   :   Coroner] LC_API is not present! Skipping registration...
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.4.4]
+[Info   :Lethal Company Input Utils] Plugin com.rune580.LethalCompanyInputUtils is loaded!
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 1.7.7]
+[Info   :ReservedItemSlotCore] BindingConfigs
+[Info   :ReservedItemSlotCore] Cleaning old config entries
+[Info   :ReservedItemSlotCore] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 1.5.5]
+[Info   :ReservedFlashlightSlot] BindingConfigs
+[Info   :ReservedFlashlightSlot] Cleaning old config entries
+[Info   :ReservedFlashlightSlot] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 1.5.3]
+[Info   :ReservedWalkieSlot] BindingConfigs
+[Info   :ReservedWalkieSlot] Cleaning old config entries
+[Info   :ReservedWalkieSlot] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [TooManyEmotes 1.6.4]
+[Info   :TooManyEmotes] BindingConfigs
+[Info   :TooManyEmotes] Cleaning old config entries
+[Info   :TooManyEmotes] Successfully loaded 11 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes] Successfully loaded 43 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes] Successfully loaded 35 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes] Successfully loaded 27 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes] Successfully loaded 1 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes] Successfully loaded radial menu asset.
+[Info   :TooManyEmotes] TooManyEmotes loaded
+[Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.6]
+[Info   :HDLethalCompany-Sligili] HDLethalCompany loaded
+[Info   :   BepInEx] Loading [MoreCompany 1.7.2]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: E:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [Flashlight 1.5.0]
+[Info   :Flashlight] ------Flashlight done.------
+[Info   :   BepInEx] Loading [WalkieUse 1.4.0]
+[Info   : WalkieUse] ------Walkie done.------
+[Info   :   BepInEx] Loading [Skinwalker Mod 1.0.8]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 1.0.8
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Error  :   BepInEx] Could not load [Youtube Boombox 1.5.0] because it has missing dependencies: LC_API
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.3]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.3 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :   BepInEx] Loading [Late Company 1.0.9]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [Mimics 2.3.0]
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly Mimics, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+Could not load list of method overrides due to Method not found: void .IHittable.Hit(int,UnityEngine.Vector3,GameNetcodeStuff.PlayerControllerB,bool)
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <787acc3c9a4c471ba7d971300105af24>:0 
+  at HarmonyLib.AccessTools.GetTypesFromAssembly (System.Reflection.Assembly assembly) [0x0000d] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+System.TypeLoadException: Could not load list of method overrides due to Method not found: void .IHittable.Hit(int,UnityEngine.Vector3,GameNetcodeStuff.PlayerControllerB,bool)
+[Info   :    Mimics] Plugin Mimics is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   :ACS.AdditionalSuits] AdditionalSuits - attempting to parse json file: E:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits\suit-defs.json
+[Info   :ACS.AdditionalSuits] AdditionalSuits - converting json file to manifest...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - loading item defs from manifest, 8 items were found...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=0_Red_Suit, name=Red Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=0_Red_Suit, name=Red Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=1_Yellow_Suit, name=Yellow Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=1_Yellow_Suit, name=Yellow Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=2_Green_Suit, name=Green Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=2_Green_Suit, name=Green Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=3_Blue_Suit, name=Blue Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=3_Blue_Suit, name=Blue Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=4_Purple_Suit, name=Purple Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=4_Purple_Suit, name=Purple Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=5_Pink_Suit, name=Pink Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=5_Pink_Suit, name=Pink Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=6_White_Suit, name=White Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=6_White_Suit, name=White Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=7_Black_Suit, name=Black Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=7_Black_Suit, name=Black Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - loaded item defs from json file!
+[Info   :TooManyEmotes] Loaded 9 unlockable emotes.
+[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
+[Info   :TooManyEmotes] Loaded Seed: 992843827
+[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 992843827
+[Info   :TooManyEmotes] Rotate new emote value: 0.987459395074965
+[Info   :TooManyEmotes] Rotate new emote value: 0.26082519221158
+[Info   :TooManyEmotes] Rotate new emote value: 0.910687925252452
+[Info   :TooManyEmotes] Rotate new emote value: 0.252715859679839
+[Info   :TooManyEmotes] Rotate new emote value: 0.280461276546335
+[Info   :TooManyEmotes] Rotate new emote value: 0.121053467095389
+[Info   :TooManyEmotes] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes] Subscribing to OnPressCustomEmoteKey events
+[Info   :ReservedItemSlotCore] Finalizing sync with server.
+[Info   :ReservedItemSlotCore] Adding 2 Reserved item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Adding Reserved item slot for item types [Walkie-talkie]. Inventory index: 5
+[Info   :ReservedItemSlotCore] Finished adding 2 Reserved Item slots in the inventory HUD.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Error  :  HarmonyX] Error while running static void LateCompany.Patches.ConnectionApproval_Patch::Postfix(Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response). Error: System.NullReferenceException: Object reference not set to an instance of an object
+  at LateCompany.Patches.ConnectionApproval_Patch.Postfix (Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response) [0x00019] in <9c566bf45bac432c9916029866e24a81>:0 
+  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::ConnectionApproval>(GameNetworkManager,Unity.Netcode.NetworkManager/ConnectionApprovalRequest,Unity.Netcode.NetworkManager/ConnectionApprovalResponse)
+[Info   :TooManyEmotes] Saved 9 unlockable emotes.
+[Info   :TooManyEmotes] Saved CurrentEmoteCredits: 100
+[Info   :TooManyEmotes] Saved Seed: 992843827
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   :TooManyEmotes] Unsubscribing from OnPressCustomEmoteKey events.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   :TooManyEmotes] Loaded 8 unlockable emotes.
+[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
+[Info   :TooManyEmotes] Loaded Seed: 0
+[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 4178791
+[Info   :TooManyEmotes] Rotate new emote value: 0.927348990890826
+[Info   :TooManyEmotes] Rotate new emote value: 0.491738496577245
+[Info   :TooManyEmotes] Rotate new emote value: 0.75199335569143
+[Info   :TooManyEmotes] Rotate new emote value: 0.201399362274166
+[Info   :TooManyEmotes] Rotate new emote value: 0.211789738951153
+[Info   :TooManyEmotes] Rotate new emote value: 0.1914933804383
+[Info   :TooManyEmotes] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes] Subscribing to OnPressCustomEmoteKey events
+[Info   :ReservedItemSlotCore] Finalizing sync with server.
+[Info   :ReservedItemSlotCore] Adding 2 Reserved item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Adding Reserved item slot for item types [Walkie-talkie]. Inventory index: 5
+[Info   :ReservedItemSlotCore] Finished adding 2 Reserved Item slots in the inventory HUD.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Error  :  HarmonyX] Error while running static void LateCompany.Patches.ConnectionApproval_Patch::Postfix(Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response). Error: System.NullReferenceException: Object reference not set to an instance of an object
+  at LateCompany.Patches.ConnectionApproval_Patch.Postfix (Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response) [0x00019] in <9c566bf45bac432c9916029866e24a81>:0 
+  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::ConnectionApproval>(GameNetworkManager,Unity.Netcode.NetworkManager/ConnectionApprovalRequest,Unity.Netcode.NetworkManager/ConnectionApprovalResponse)
+[Info   :TooManyEmotes] Saved 8 unlockable emotes.
+[Info   :TooManyEmotes] Saved CurrentEmoteCredits: 100
+[Info   :TooManyEmotes] Saved Seed: 4178791
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   :TooManyEmotes] Unsubscribing from OnPressCustomEmoteKey events.
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
